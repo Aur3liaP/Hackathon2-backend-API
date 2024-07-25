@@ -4,7 +4,7 @@
     "nom": "Furby",
     "description": "Ce petit animal de compagnie électronique est super interactif ! Il parle, bouge ses oreilles et peut même chanter !",
     "argument_de_vente": "Un compagnon interactif qui réagit à ta voix et te divertit avec des expressions et des sons uniques.",
-    "image": "",
+    "image": "./assets/furby (API).jpg",
     "commentaires_client": [
       {
         "nom_client": "Sophie",
@@ -21,7 +21,7 @@
     "nom": "Game Boy",
     "description": "La Game Boy est une console de jeu portable qui te permet de jouer à tes jeux préférés partout où tu vas, comme *Tetris* et *Pokémon* !",
     "argument_de_vente": "La première console de jeu portable qui t'offre des heures de divertissement avec des titres emblématiques, tout en étant facile à transporter.",
-    "image": "",
+    "image": "./assets/Game-boy (API).jpg",
     "commentaires_client": [
       {
         "nom_client": "Claire",
@@ -38,11 +38,11 @@
     "nom": "Pog",
     "description": "Les pogs sont des petits disques amusants que tu peux collectionner et utiliser pour jouer à des jeux passionnants avec tes amis !",
     "argument_de_vente": "Un jeu de collection populaire qui encourage les échanges et les défis entre amis, tout en offrant une multitude de designs amusants.",
-    "image": "",
+    "image": "./assets/POG (API).jpg",
     "commentaires_client": [
       {
         "nom_client": "Elodie",
-        "commentaire": "« Collectionner les pogs et jouer avec était super fun. J'en avais une grande boîte pleine ! »"
+        "commentaire": "« Collectionner les pogs et jouer avec est super fun. J'en ai une grande boîte pleine ! »"
       },
       {
         "nom_client": "Thomas",
@@ -55,7 +55,7 @@
     "nom": "Pez",
     "description": "Les distributeurs PEZ sont des jouets amusants en forme de personnages qui distribuent des bonbons délicieux en forme de petites pastilles !",
     "argument_de_vente": "Des distributeurs ludiques en forme de personnages célèbres qui rendent les bonbons encore plus amusants à manger.",
-    "image": "",
+    "image": "./assets/pez-pikachu-orange (API).png",
     "commentaires_client": [
       {
         "nom_client": "Amélie",
@@ -72,7 +72,7 @@
     "nom": "Tamagotchi",
     "description": "Le Tamagotchi est un animal de compagnie virtuel que tu peux nourrir, jouer avec et soigner. C'est comme avoir un vrai animal de compagnie !",
     "argument_de_vente": "Un animal de compagnie virtuel qui te permet de vivre l'expérience de l'entretien d'un animal tout en étant compact et portable.",
-    "image": "",
+    "image": "./assets/Tamagochi.png",
     "commentaires_client": [
       {
         "nom_client": "Isabelle",
@@ -89,7 +89,7 @@
     "nom": "Bipper",
     "description": "Le bipper est un petit appareil qui t'envoie des alertes et des messages. C'est super pratique avant l'arrivée des téléphones portables !",
     "argument_de_vente": "Un outil pratique pour recevoir des alertes et des messages instantanément, avant l'ère des téléphones mobiles.",
-    "image": "",
+    "image": "./assets/Bipper3 (API).jpg",
     "commentaires_client": [
       {
         "nom_client": "Nadine",
@@ -97,7 +97,7 @@
       },
       {
         "nom_client": "Philippe",
-        "commentaire": "« Il fallait souvent courir vers un téléphone pour répondre aux messages, mais c'était un bon début pour la communication mobile. »"
+        "commentaire": "« Vraiment pratique pour passer un message rapidement. Cependant, mon ex Marlène n'a pas trop apprécié... »"
       }
     ]
   },
@@ -106,15 +106,15 @@
     "nom": "Minitel",
     "description": "Le Minitel est un terminal qui te permet d'accéder à des services en ligne comme les annuaires téléphoniques et même de faire des réservations !",
     "argument_de_vente": "Un précurseur d'Internet qui te permet d'accéder à divers services en ligne depuis le confort de chez toi.",
-    "image": "",
+    "image": "./assets/minitel2 (API).png",
     "commentaires_client": [
       {
         "nom_client": "Monique",
-        "commentaire": "« Le Minitel était une vraie révolution pour l'époque. C'était comme avoir un petit accès à Internet chez soi. »"
+        "commentaire": "« Le nouveau Minitel est une vraie révolution. On peut avoir toutes les informations dont on a besoin. »"
       },
       {
         "nom_client": "Bernard",
-        "commentaire": "« C'est un peu lent et les services sont basiques, mais c'était super pour l'époque. »"
+        "commentaire": "« C'est un peu lent et les services sont basiques, mais c'est vraiment cool. »"
       }
     ]
   },
@@ -123,7 +123,7 @@
     "nom": "Magnétoscope / VHS",
     "description": "Le magnétoscope est parfait pour regarder et enregistrer des films et des émissions sur des cassettes VHS. C'est super pratique pour le divertissement à la maison !",
     "argument_de_vente": "Un dispositif essentiel pour enregistrer et visionner des émissions et des films à la demande, tout en offrant une flexibilité de visionnage.",
-    "image": "",
+    "image": "./assets/magnetoscope (API).jpg",
     "commentaires_client": [
       {
         "nom_client": "Elena",
@@ -131,7 +131,7 @@
       },
       {
         "nom_client": "Laurent",
-        "commentaire": "« La qualité des VHS n'est pas toujours top, mais c'est pratique pour conserver tes films préférés. »"
+        "commentaire": "« La qualité des VHS n'est pas toujours top, mais c'est pratique pour conserver tes films préférés. Attention à les ranger dans la bonne boîte lol »"
       }
     ]
   },
@@ -140,7 +140,7 @@
     "nom": "Walkman",
     "description": "Le Walkman est un lecteur de cassettes portable qui te permet d'écouter de la musique où que tu sois. Parfait pour les déplacements !",
     "argument_de_vente": "Le premier lecteur de musique portable qui te permet de profiter de ta musique préférée en déplacement, avec une qualité sonore appréciable.",
-    "image": "",
+    "image": "./assets/lecteurcd (API).png",
     "commentaires_client": [
       {
         "nom_client": "Julie",
@@ -157,7 +157,7 @@
     "nom": "Nokia 3310",
     "description": "Le Nokia 3310 est un téléphone mobile ultra-résistant avec une batterie qui dure des semaines. Idéal pour rester en contact sans souci !",
     "argument_de_vente": "Un téléphone mobile robuste et fiable avec une batterie de longue durée, parfait pour une utilisation quotidienne sans tracas.",
-    "image": "",
+    "image": "./assets/nokia-3310 (API).png",
     "commentaires_client": [
       {
         "nom_client": "Catherine",
@@ -165,7 +165,7 @@
       },
       {
         "nom_client": "Gérard",
-        "commentaire": "« L'écran est basique et il manque certaines fonctionnalités modernes, mais il fait le travail de manière fiable. »"
+        "commentaire": "« Je l'ai lancé contre un mur, et maintenant il y a un trou. Le téléphone n'a rien. »"
       }
     ]
   },
@@ -174,7 +174,7 @@
     "nom": "PlayStation",
     "description": "La PlayStation est la première console de jeu de Sony avec des graphismes en 3D impressionnants et des jeux incroyables comme *Final Fantasy VII*. C'est le futur du jeu vidéo !",
     "argument_de_vente": "Une console révolutionnaire qui apporte des graphismes 3D époustouflants et une bibliothèque de jeux impressionnante, redéfinissant le divertissement à domicile.",
-    "image": "",
+    "image": "./assets/ps1 (API).png",
     "commentaires_client": [
       {
         "nom_client": "Lucie",
@@ -191,7 +191,7 @@
     "nom": "TV tube cathodique",
     "description": "La télévision à tube cathodique est le standard pour les émissions et les films avant l'arrivée des écrans plats. Elle offre une bonne qualité d'image pour son époque !",
     "argument_de_vente": "Un téléviseur classique qui fournit une bonne qualité d'image et un divertissement visuel fiable avec les technologies de l'époque.",
-    "image": "",
+    "image": "./assets/tv (API).png",
     "commentaires_client": [
       {
         "nom_client": "Monique",
@@ -205,10 +205,10 @@
   },
   {
     "id": 13,
-    "nom": "Polypocket",
+    "nom": "Pollypocket",
     "description": "Les Polypocket sont des petites maisons ou véhicules miniatures avec des personnages et des accessoires que tu peux emporter partout !",
     "argument_de_vente": "Des jouets miniatures qui combinent jeu de rôle et transportabilité, permettant aux enfants d'emporter leurs mondes imaginaires partout.",
-    "image": "",
+    "image": "./assets/pollypocket (API).png",
     "commentaires_client": [
       {
         "nom_client": "Amandine",
@@ -225,7 +225,7 @@
     "nom": "Light Gun PS1",
     "description": "Le Light Gun pour PlayStation 1 est un pistolet électronique utilisé pour les jeux de tir sur ton téléviseur. C'est une expérience de jeu unique !",
     "argument_de_vente": "Un accessoire de jeu innovant qui offre une immersion accrue dans les jeux de tir, avec une interaction physique directe avec le téléviseur.",
-    "image": "",
+    "image": "./assets/lightgun_1 (API).png",
     "commentaires_client": [
       {
         "nom_client": "Chloé",
