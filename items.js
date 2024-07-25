@@ -1,4 +1,4 @@
-export const items = [
+const items = [
   {
     id: 1,
     description:
@@ -308,3 +308,5 @@ export const items = [
     ],
   },
 ];
+
+module.exports = items;
