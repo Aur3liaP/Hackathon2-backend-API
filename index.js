@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const itemsTab = require("./items.js");
+const itemsTab = require("./items");
 
 const app = express();
 
