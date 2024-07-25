@@ -7,6 +7,7 @@ const app = express();
 const serverPort = 3310;
 
 app.use(cors("*")); //middleware
+app.use("/static", express.static(__dirname + "/assets"));
 
 app.get("/", (req, res) => {
     res.send("Hello la Dream Team");
