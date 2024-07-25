@@ -1,4 +1,4 @@
-const items = [
+export const items = [
   {
     id: 1,
     description:
@@ -10,13 +10,13 @@ const items = [
     price: 399,
     client_commentary: [
       {
-        nom_client: "Sophie",
-        commentaire:
+        client_name: "Sophie",
+        commentary:
           "« J'adore mon Furby ! C'est trop marrant de le voir réagir quand je parle ou le touche. »",
       },
       {
-        nom_client: "Julien",
-        commentaire:
+        client_name: "Julien",
+        commentary:
           "« Au début, c'était génial, mais parfois il devient un peu bruyant et ne cesse de parler ! »",
       },
     ],
@@ -32,13 +32,13 @@ const items = [
     price: 699,
     client_commentary: [
       {
-        nom_client: "Claire",
-        commentaire:
+        client_name: "Claire",
+        commentary:
           "« La Game Boy est vraiment géniale pour passer le temps. C'est comme avoir une arcade dans ta poche ! »",
       },
       {
-        nom_client: "Marc",
-        commentaire:
+        client_name: "Marc",
+        commentary:
           "« J'adore la Game Boy, mais il faut vraiment être sous la lumière pour voir l'écran correctement. »",
       },
     ],
@@ -54,13 +54,13 @@ const items = [
     price: 50,
     client_commentary: [
       {
-        nom_client: "Elodie",
-        commentaire:
+        client_name: "Elodie",
+        commentary:
           "« Collectionner les pogs et jouer avec est super fun. J'en ai une grande boîte pleine ! »",
       },
       {
-        nom_client: "Thomas",
-        commentaire:
+        client_name: "Thomas",
+        commentary:
           "« C'est marrant, mais le jeu peut devenir un peu répétitif après un certain temps. »",
       },
     ],
@@ -76,13 +76,13 @@ const items = [
     price: 30,
     client_commentary: [
       {
-        nom_client: "Amélie",
-        commentaire:
+        client_name: "Amélie",
+        commentary:
           "« J'adore les distributeurs PEZ ! Ils sont super pour collectionner et les bonbons sont délicieux. »",
       },
       {
-        nom_client: "David",
-        commentaire:
+        client_name: "David",
+        commentary:
           "« Les bonbons PEZ sont parfois trop sucrés, mais c'est le distributeur qui est vraiment cool ! »",
       },
     ],
@@ -98,13 +98,13 @@ const items = [
     price: 250,
     client_commentary: [
       {
-        nom_client: "Isabelle",
-        commentaire:
+        client_name: "Isabelle",
+        commentary:
           "« Mon Tamagotchi est devenu mon meilleur ami ! J'adore m'en occuper toute la journée. »",
       },
       {
-        nom_client: "Alexandre",
-        commentaire:
+        client_name: "Alexandre",
+        commentary:
           "« C'est marrant au début, mais c'est un peu stressant d'avoir à toujours surveiller et nourrir mon Tamagotchi. »",
       },
     ],
@@ -120,13 +120,13 @@ const items = [
     price: 150,
     client_commentary: [
       {
-        nom_client: "Nadine",
-        commentaire:
+        client_name: "Nadine",
+        commentary:
           "« Le bipper est parfait pour recevoir des messages rapidement, même si c'est un peu limité. »",
       },
       {
-        nom_client: "Philippe",
-        commentaire:
+        client_name: "Philippe",
+        commentary:
           "« Vraiment pratique pour passer un message rapidement. Cependant, mon ex Marlène n'a pas trop apprécié... »",
       },
     ],
@@ -142,13 +142,13 @@ const items = [
     price: 2000,
     client_commentary: [
       {
-        nom_client: "Monique",
-        commentaire:
+        client_name: "Monique",
+        commentary:
           "« Le nouveau Minitel est une vraie révolution. On peut avoir toutes les informations dont on a besoin. »",
       },
       {
-        nom_client: "Bernard",
-        commentaire:
+        client_name: "Bernard",
+        commentary:
           "« C'est un peu lent et les services sont basiques, mais c'est vraiment cool. »",
       },
     ],
@@ -164,13 +164,13 @@ const items = [
     price: 1500,
     client_commentary: [
       {
-        nom_client: "Elena",
-        commentaire:
+        client_name: "Elena",
+        commentary:
           "« Le magnétoscope est indispensable pour enregistrer tes émissions préférées et regarder des films à la maison. »",
       },
       {
-        nom_client: "Laurent",
-        commentaire:
+        client_name: "Laurent",
+        commentary:
           "« La qualité des VHS n'est pas toujours top, mais c'est pratique pour conserver tes films préférés. Attention à les ranger dans la bonne boîte lol »",
       },
     ],
@@ -186,13 +186,13 @@ const items = [
     price: 400,
     client_commentary: [
       {
-        nom_client: "Julie",
-        commentaire:
+        client_name: "Julie",
+        commentary:
           "« Le Walkman est génial pour écouter de la musique en déplacement. Il est compact et pratique. »",
       },
       {
-        nom_client: "Sébastien",
-        commentaire:
+        client_name: "Sébastien",
+        commentary:
           "« Les cassettes peuvent s'user avec le temps, mais c'est un excellent moyen de profiter de ta musique préférée partout. »",
       },
     ],
@@ -208,13 +208,13 @@ const items = [
     price: 1200,
     client_commentary: [
       {
-        nom_client: "Catherine",
-        commentaire:
+        client_name: "Catherine",
+        commentary:
           "« Le Nokia 3310 est presque indestructible et la batterie dure une éternité ! »",
       },
       {
-        nom_client: "Gérard",
-        commentaire:
+        client_name: "Gérard",
+        commentary:
           "« Je l'ai lancé contre un mur, et maintenant il y a un trou. Le téléphone n'a rien. »",
       },
     ],
@@ -230,13 +230,13 @@ const items = [
     price: 1999,
     client_commentary: [
       {
-        nom_client: "Lucie",
-        commentaire:
+        client_name: "Lucie",
+        commentary:
           "« La PlayStation est incroyable ! Les graphismes sont époustouflants et les jeux sont passionnants. »",
       },
       {
-        nom_client: "François",
-        commentaire:
+        client_name: "François",
+        commentary:
           "« Les temps de chargement peuvent être un peu longs, mais les jeux en valent vraiment la peine. »",
       },
     ],
@@ -252,13 +252,13 @@ const items = [
     price: 3500,
     client_commentary: [
       {
-        nom_client: "Monique",
-        commentaire:
+        client_name: "Monique",
+        commentary:
           "« Les téléviseurs à tube cathodique sont bons pour regarder des films et des émissions, même s'ils prennent beaucoup de place. »",
       },
       {
-        nom_client: "Patrick",
-        commentaire:
+        client_name: "Patrick",
+        commentary:
           "« Les écrans à tube cathodique peuvent être encombrants, mais la qualité d'image est assez bonne pour l'époque. »",
       },
     ],
@@ -274,13 +274,13 @@ const items = [
     price: 150,
     client_commentary: [
       {
-        nom_client: "Amandine",
-        commentaire:
+        client_name: "Amandine",
+        commentary:
           "« Les Polypocket sont super amusants et faciles à emporter partout. J'adore les petites maisons et leurs accessoires ! »",
       },
       {
-        nom_client: "Olivier",
-        commentaire:
+        client_name: "Olivier",
+        commentary:
           "« Les détails sont super, mais certaines pièces peuvent se perdre facilement. »",
       },
     ],
@@ -296,13 +296,13 @@ const items = [
     price: 250,
     client_commentary: [
       {
-        nom_client: "Chloé",
-        commentaire:
+        client_name: "Chloé",
+        commentary:
           "« Le light gun est super amusant pour les jeux de tir, bien que la précision puisse varier en fonction de l'écran. »",
       },
       {
-        nom_client: "Jérôme",
-        commentaire:
+        client_name: "Jérôme",
+        commentary:
           "« Les jeux compatibles sont limités, mais c'est une expérience divertissante et différente des autres jeux. »",
       },
     ],
