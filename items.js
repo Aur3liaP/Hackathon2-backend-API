@@ -3,7 +3,7 @@ const items = [
     id: 1,
     description:
       "Ce petit animal de compagnie électronique est super interactif ! Il parle, bouge ses oreilles et peut même chanter !",
-    image: "http://localhost:3310/static/furby(API).jpg",
+    image: "https://cybermart-api.netlify.app/assets/furby(API).jpg",
     name: "Furby",
     sales_pitch:
       "Un compagnon interactif qui réagit à ta voix et te divertit avec des expressions et des sons uniques.",
@@ -25,7 +25,7 @@ const items = [
     id: 2,
     description:
       "La Game Boy est une console de jeu portable qui te permet de jouer à tes jeux préférés partout où tu vas, comme *Tetris* et *Pokémon* !",
-    image: "http://localhost:3310/static/Game-boy(API).jpg",
+    image: "https://cybermart-api.netlify.app/assets/Game-boy(API).jpg",
     name: "Game Boy",
     sales_pitch:
       "La première console de jeu portable qui t'offre des heures de divertissement avec des titres emblématiques, tout en étant facile à transporter.",
@@ -47,7 +47,7 @@ const items = [
     id: 3,
     description:
       "Les pogs sont des petits disques amusants que tu peux collectionner et utiliser pour jouer à des jeux passionnants avec tes amis !",
-    image: "http://localhost:3310/static/POG(API).jpg",
+    image: "https://cybermart-api.netlify.app/assets/POG(API).jpg",
     name: "Pog",
     sales_pitch:
       "Un jeu de collection populaire qui encourage les échanges et les défis entre amis, tout en offrant une multitude de designs amusants.",
@@ -69,7 +69,7 @@ const items = [
     id: 4,
     description:
       "Les distributeurs PEZ sont des jouets amusants en forme de personnages qui distribuent des bonbons délicieux en forme de petites pastilles !",
-    image: "http://localhost:3310/static/pez-pikachu-orange(API).png",
+    image: "https://cybermart-api.netlify.app/assets/pez-pikachu-orange(API).png",
     name: "Pez",
     sales_pitch:
       "Des distributeurs ludiques en forme de personnages célèbres qui rendent les bonbons encore plus amusants à manger.",
@@ -91,7 +91,7 @@ const items = [
     id: 5,
     description:
       "Le Tamagotchi est un animal de compagnie virtuel que tu peux nourrir, jouer avec et soigner. C'est comme avoir un vrai animal de compagnie !",
-    image: "http://localhost:3310/static/Tamagochi.png",
+    image: "https://cybermart-api.netlify.app/assets/Tamagochi.png",
     name: "Tamagotchi",
     sales_pitch:
       "Un animal de compagnie virtuel qui te permet de vivre l'expérience de l'entretien d'un animal tout en étant compact et portable.",
@@ -113,7 +113,7 @@ const items = [
     id: 6,
     description:
       "Le bipper est un petit appareil qui t'envoie des alertes et des messages. C'est super pratique avant l'arrivée des téléphones portables !",
-    image: "http://localhost:3310/static/Bipper3(API).jpg",
+    image: "https://cybermart-api.netlify.app/assets/Bipper3(API).jpg",
     name: "Bipper",
     sales_pitch:
       "Un outil pratique pour recevoir des alertes et des messages instantanément, avant l'ère des téléphones mobiles.",
@@ -135,7 +135,7 @@ const items = [
     id: 7,
     description:
       "Le Minitel est un terminal qui te permet d'accéder à des services en ligne comme les annuaires téléphoniques et même de faire des réservations !",
-    image: "http://localhost:3310/static/minitel2(API).png",
+    image: "https://cybermart-api.netlify.app/assets/minitel2(API).png",
     name: "Minitel",
     sales_pitch:
       "Un précurseur d'Internet qui te permet d'accéder à divers services en ligne depuis le confort de chez toi.",
@@ -157,7 +157,7 @@ const items = [
     id: 8,
     description:
       "Le magnétoscope est parfait pour regarder et enregistrer des films et des émissions sur des cassettes VHS. C'est super pratique pour le divertissement à la maison !",
-    image: "http://localhost:3310/static/magnetoscope(API).jpg",
+    image: "https://cybermart-api.netlify.app/assets/magnetoscope(API).jpg",
     name: "Magnétoscope / VHS",
     sales_pitch:
       "Un dispositif essentiel pour enregistrer et visionner des émissions et des films à la demande, tout en offrant une flexibilité de visionnage.",
@@ -179,7 +179,7 @@ const items = [
     id: 9,
     description:
       "Le Walkman est un lecteur de cassettes portable qui te permet d'écouter de la musique où que tu sois. Parfait pour les déplacements !",
-    image: "http://localhost:3310/static/lecteurcd(API).png",
+    image: "https://cybermart-api.netlify.app/assets/lecteurcd(API).png",
     name: "Walkman",
     sales_pitch:
       "Le premier lecteur de musique portable qui te permet de profiter de ta musique préférée en déplacement, avec une qualité sonore appréciable.",
@@ -201,7 +201,7 @@ const items = [
     id: 10,
     description:
       "Le Nokia 3310 est un téléphone mobile ultra-résistant avec une batterie qui dure des semaines. Idéal pour rester en contact sans souci !",
-    image: "http://localhost:3310/static/nokia-3310(API).png",
+    image: "https://cybermart-api.netlify.app/assets/nokia-3310(API).png",
     name: "Nokia 3310",
     sales_pitch:
       "Un téléphone mobile robuste et fiable avec une batterie de longue durée, parfait pour une utilisation quotidienne sans tracas.",
@@ -223,7 +223,7 @@ const items = [
     id: 11,
     description:
       "La PlayStation est la première console de jeu de Sony avec des graphismes en 3D impressionnants et des jeux incroyables comme *Final Fantasy VII*. C'est le futur du jeu vidéo !",
-    image: "http://localhost:3310/static/ps1(API).png",
+    image: "https://cybermart-api.netlify.app/assets/ps1(API).png",
     name: "PlayStation",
     sales_pitch:
       "Une console révolutionnaire qui apporte des graphismes 3D époustouflants et une bibliothèque de jeux impressionnante, redéfinissant le divertissement à domicile.",
@@ -245,7 +245,7 @@ const items = [
     id: 12,
     description:
       "La télévision à tube cathodique est le standard pour les émissions et les films avant l'arrivée des écrans plats. Elle offre une bonne qualité d'image pour son époque !",
-    image: "http://localhost:3310/static/tv(API).png",
+    image: "https://cybermart-api.netlify.app/assets/tv(API).png",
     name: "TV tube cathodique",
     sales_pitch:
       "Un téléviseur classique qui fournit une bonne qualité d'image et un divertissement visuel fiable avec les technologies de l'époque.",
@@ -267,7 +267,7 @@ const items = [
     id: 13,
     description:
       "Les Polypocket sont des petites maisons ou véhicules miniatures avec des personnages et des accessoires que tu peux emporter partout !",
-    image: "http://localhost:3310/static/pollypocket(API).png",
+    image: "https://cybermart-api.netlify.app/assets/pollypocket(API).png",
     name: "Pollypocket",
     sales_pitch:
       "Des jouets miniatures qui combinent jeu de rôle et transportabilité, permettant aux enfants d'emporter leurs mondes imaginaires partout.",
@@ -289,7 +289,7 @@ const items = [
     id: 14,
     description:
       "Le Light Gun pour PlayStation 1 est un pistolet électronique utilisé pour les jeux de tir sur ton téléviseur. C'est une expérience de jeu unique !",
-    image: "http://localhost:3310/static/lightgun_1(API).png",
+    image: "https://cybermart-api.netlify.app/assets/lightgun_1(API).png",
     name: "Light Gun PS1",
     sales_pitch:
       "Un accessoire de jeu innovant qui offre une immersion accrue dans les jeux de tir, avec une interaction physique directe avec le téléviseur.",
