@@ -28,3 +28,5 @@ app.get("/items/:id", (req, res) => {
 app.listen(serverPort, () => {
   console.info(`http://localhost:${serverPort}`);
 });
+
+module.exports = app;
